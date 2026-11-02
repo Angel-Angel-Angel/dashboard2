@@ -1,0 +1,18 @@
+{
+  "source": "Kean datamining.uszips; authorized course export",
+  "vintage": "Unknown \u2014 verify with the instructor or source metadata",
+  "export_date": "Unknown \u2014 enter the actual export date",
+  "filename": "uszips.csv",
+  "export_identifier": "Instructor export \u2014 identify the supplied file or query",
+  "actual_export_sql": null,
+  "initial_filters": {
+    "level": "County",
+    "states": null,
+    "minimum": 3,
+    "top": 10
+  },
+  "sha256": "1ecc42a16263ad912790496c3dfc0b2ee7961b3fe80e6c8c867ee8484a325073",
+  "loaded_at_utc": "2026-10-28T15:25:46.101387+00:00",
+  "rows": 33782,
+  "student": "Angel Bello"
+}
